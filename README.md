@@ -38,17 +38,17 @@ I'm interested in building backend applications with **C# and ASP.NET Core**, de
 
 ## 🚀 Featured Projects
 
-### [GoldWatch](YOUR_GOLDWATCH_REPOSITORY_URL)
+### [GoldWatch](https://github.com/vantran7878/GoldWatch)
 A gold price monitoring project focused on collecting and managing market data.
 
 **Tech:** C#, ASP.NET Core, Entity Framework Core, PostgreSQL, Angular
 
-### [School Management System](YOUR_SCHOOL_PROJECT_REPOSITORY_URL)
+### [School Management System](https://github.com/vantran7878/School_CRUD_Console)
 A school management application exploring object-oriented design, event-driven workflows, queues, background workers, and data persistence.
 
 **Tech:** C#, ASP.NET Core, Entity Framework Core, Angular
 
-### [Crypto Strategy Lab](YOUR_CRYPTO_PROJECT_REPOSITORY_URL)
+### [Crypto Strategy Lab](https://github.com/huynhgiaau27112005/crypto-strategy-lab)
 A learning project exploring cryptocurrency market monitoring, news analysis, and AI integration.
 
 **Tech:** NestJS, Next.js, AI integration
@@ -66,5 +66,5 @@ A learning project exploring cryptocurrency market monitoring, news analysis, an
 ## 📫 Connect with Me
 
 - **GitHub:** [@vantran7878](https://github.com/vantran7878)
-- **LinkedIn:** [Your LinkedIn Profile URL](YOUR_LINKEDIN_URL)
+- **LinkedIn:** [Your LinkedIn Profile URL](https://www.linkedin.com/in/cao-van-tran-6b2467316/?isSelfProfile=true)
 - **Email:** [trancaovan0701@gmail.com](mailto:trancaovan0701@gmail.com)
